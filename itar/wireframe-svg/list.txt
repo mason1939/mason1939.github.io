@@ -24,8 +24,14 @@ encoded : Admin-計畫管理%20-%20Initial.svg
 name    : Apply構想書 - Initial.svg
 encoded : Apply構想書%20-%20Initial.svg
 
+name    : Apply構想書.svg
+encoded : Apply構想書.svg
+
 name    : Edit個人檔案 - Initial.svg
 encoded : Edit個人檔案%20-%20Initial.svg
+
+name    : Edit個人檔案.svg
+encoded : Edit個人檔案.svg
 
 name    : General-Home - Initial.svg
 encoded : General-Home%20-%20Initial.svg
