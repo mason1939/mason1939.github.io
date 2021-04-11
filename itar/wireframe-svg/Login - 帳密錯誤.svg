@@ -57,10 +57,10 @@
       ><path d="M-7 -7 L142 -7 L142 56 L-7 56 L-7 -7 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath18"
-      ><path d="M0 0 L0 37 L57 37 L57 0 Z"
+      ><path d="M0 0 L0 37 L56 37 L56 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath19"
-      ><path d="M0 0 L0 37 L58 37 L58 0 Z"
+      ><path d="M0 0 L0 37 L57 37 L57 0 Z"
       /></clipPath
       ><clipPath clipPathUnits="userSpaceOnUse" id="clipPath20"
       ><path d="M-7 -7 L225 -7 L225 246 L-7 246 L-7 -7 Z"
@@ -255,15 +255,15 @@
       /><line y2="15.4287" fill="none" x1="0" clip-path="url(#clipPath12)" x2="33.7559" y1="15.4287"
     /></g
     ><g font-size="11px" transform="translate(20,160)" fill-opacity="1" fill="rgb(221,221,221)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(221,221,221)" stroke-opacity="1"
-    ><path d="M68 16 L70 16 L66 29 L64 29 Z" stroke="none" clip-path="url(#clipPath17)"
-      /><path fill="rgb(238,238,238)" d="M70 16 L66 29 L64 29 L68 16 ZM7 1 C3.6863 1 1 3.6863 1 7 L1 38 C1 41.3137 3.6863 44 7 44 L124 44 C127.3137 44 130 41.3137 130 38 L130 7 C130 3.6863 127.3137 1 124 1 Z" clip-path="url(#clipPath17)" stroke="none"
+    ><path d="M67 16 L69 16 L65 29 L63 29 Z" stroke="none" clip-path="url(#clipPath17)"
+      /><path fill="rgb(238,238,238)" d="M69 16 L65 29 L63 29 L67 16 ZM7 1 C3.6863 1 1 3.6863 1 7 L1 38 C1 41.3137 3.6863 44 7 44 L124 44 C127.3137 44 130 41.3137 130 38 L130 7 C130 3.6863 127.3137 1 124 1 Z" clip-path="url(#clipPath17)" stroke="none"
     /></g
-    ><g font-size="14px" transform="translate(92,164)" fill-opacity="1" fill="rgb(119,119,119)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="'Comic Sans MS'" stroke="rgb(119,119,119)" stroke-opacity="1"
-    ><text x="11" xml:space="preserve" y="24" clip-path="url(#clipPath18)" stroke="none"
+    ><g font-size="14px" transform="translate(91,164)" fill-opacity="1" fill="rgb(119,119,119)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="'Comic Sans MS'" stroke="rgb(119,119,119)" stroke-opacity="1"
+    ><text x="10.5" xml:space="preserve" y="24" clip-path="url(#clipPath18)" stroke="none"
       >News</text
     ></g
     ><g font-size="14px" transform="translate(24,164)" fill-opacity="1" fill="rgb(51,122,183)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="'Comic Sans MS'" stroke="rgb(51,122,183)" stroke-opacity="1"
-    ><text x="10.5" xml:space="preserve" y="24" clip-path="url(#clipPath19)" stroke="none"
+    ><text x="10" xml:space="preserve" y="24" clip-path="url(#clipPath19)" stroke="none"
       >Home</text
     ></g
     ><g font-size="11px" transform="translate(774,170)" fill-opacity="1" fill="rgb(64,64,64)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" font-family="sans-serif" stroke="rgb(64,64,64)" stroke-opacity="1"
@@ -325,233 +325,233 @@
     /></g
     ><g font-size="10px" transform="rotate(-45) translate(-548.68,0)" fill-opacity="1" fill="rgb(120,120,120)" text-rendering="geometricPrecision" image-rendering="optimizeQuality" stroke="rgb(120,120,120)" stroke-opacity="1"
     ><text x="0" xml:space="preserve" y="0" stroke="none"
-      ></text
+      > </text
       ><text x="221" xml:space="preserve" y="0" stroke="none"
-      ></text
+      > </text
       ><text x="442" xml:space="preserve" y="0" stroke="none"
-      ></text
+      > </text
       ><text x="663" xml:space="preserve" y="0" stroke="none"
-      ></text
+      > </text
       ><text x="884" xml:space="preserve" y="0" stroke="none"
-      ></text
+      > </text
       ><text x="1105" xml:space="preserve" y="0" stroke="none"
-      ></text
+      > </text
       ><text x="100" xml:space="preserve" y="64" stroke="none"
-      ></text
+      > </text
       ><text x="321" xml:space="preserve" y="64" stroke="none"
-      ></text
+      > </text
       ><text x="542" xml:space="preserve" y="64" stroke="none"
-      ></text
+      > </text
       ><text x="763" xml:space="preserve" y="64" stroke="none"
-      ></text
+      > </text
       ><text x="984" xml:space="preserve" y="64" stroke="none"
-      ></text
+      > </text
       ><text x="1205" xml:space="preserve" y="64" stroke="none"
-      ></text
+      > </text
       ><text x="0" xml:space="preserve" y="128" stroke="none"
-      ></text
+      > </text
       ><text x="221" xml:space="preserve" y="128" stroke="none"
-      ></text
+      > </text
       ><text x="442" xml:space="preserve" y="128" stroke="none"
-      ></text
+      > </text
       ><text x="663" xml:space="preserve" y="128" stroke="none"
-      ></text
+      > </text
       ><text x="884" xml:space="preserve" y="128" stroke="none"
-      ></text
+      > </text
       ><text x="1105" xml:space="preserve" y="128" stroke="none"
-      ></text
+      > </text
       ><text x="100" xml:space="preserve" y="192" stroke="none"
-      ></text
+      > </text
       ><text x="321" xml:space="preserve" y="192" stroke="none"
-      ></text
+      > </text
       ><text x="542" xml:space="preserve" y="192" stroke="none"
-      ></text
+      > </text
       ><text x="763" xml:space="preserve" y="192" stroke="none"
-      ></text
+      > </text
       ><text x="984" xml:space="preserve" y="192" stroke="none"
-      ></text
+      > </text
       ><text x="1205" xml:space="preserve" y="192" stroke="none"
-      ></text
+      > </text
       ><text x="0" xml:space="preserve" y="256" stroke="none"
-      ></text
+      > </text
       ><text x="221" xml:space="preserve" y="256" stroke="none"
-      ></text
+      > </text
       ><text x="442" xml:space="preserve" y="256" stroke="none"
-      ></text
+      > </text
       ><text x="663" xml:space="preserve" y="256" stroke="none"
-      ></text
+      > </text
       ><text x="884" xml:space="preserve" y="256" stroke="none"
-      ></text
+      > </text
       ><text x="1105" xml:space="preserve" y="256" stroke="none"
-      ></text
+      > </text
       ><text x="100" xml:space="preserve" y="320" stroke="none"
-      ></text
+      > </text
       ><text x="321" xml:space="preserve" y="320" stroke="none"
-      ></text
+      > </text
       ><text x="542" xml:space="preserve" y="320" stroke="none"
-      ></text
+      > </text
       ><text x="763" xml:space="preserve" y="320" stroke="none"
-      ></text
+      > </text
       ><text x="984" xml:space="preserve" y="320" stroke="none"
-      ></text
+      > </text
       ><text x="1205" xml:space="preserve" y="320" stroke="none"
-      ></text
+      > </text
       ><text x="0" xml:space="preserve" y="384" stroke="none"
-      ></text
+      > </text
       ><text x="221" xml:space="preserve" y="384" stroke="none"
-      ></text
+      > </text
       ><text x="442" xml:space="preserve" y="384" stroke="none"
-      ></text
+      > </text
       ><text x="663" xml:space="preserve" y="384" stroke="none"
-      ></text
+      > </text
       ><text x="884" xml:space="preserve" y="384" stroke="none"
-      ></text
+      > </text
       ><text x="1105" xml:space="preserve" y="384" stroke="none"
-      ></text
+      > </text
       ><text x="100" xml:space="preserve" y="448" stroke="none"
-      ></text
+      > </text
       ><text x="321" xml:space="preserve" y="448" stroke="none"
-      ></text
+      > </text
       ><text x="542" xml:space="preserve" y="448" stroke="none"
-      ></text
+      > </text
       ><text x="763" xml:space="preserve" y="448" stroke="none"
-      ></text
+      > </text
       ><text x="984" xml:space="preserve" y="448" stroke="none"
-      ></text
+      > </text
       ><text x="1205" xml:space="preserve" y="448" stroke="none"
-      ></text
+      > </text
       ><text x="0" xml:space="preserve" y="512" stroke="none"
-      ></text
+      > </text
       ><text x="221" xml:space="preserve" y="512" stroke="none"
-      ></text
+      > </text
       ><text x="442" xml:space="preserve" y="512" stroke="none"
-      ></text
+      > </text
       ><text x="663" xml:space="preserve" y="512" stroke="none"
-      ></text
+      > </text
       ><text x="884" xml:space="preserve" y="512" stroke="none"
-      ></text
+      > </text
       ><text x="1105" xml:space="preserve" y="512" stroke="none"
-      ></text
+      > </text
       ><text x="100" xml:space="preserve" y="576" stroke="none"
-      ></text
+      > </text
       ><text x="321" xml:space="preserve" y="576" stroke="none"
-      ></text
+      > </text
       ><text x="542" xml:space="preserve" y="576" stroke="none"
-      ></text
+      > </text
       ><text x="763" xml:space="preserve" y="576" stroke="none"
-      ></text
+      > </text
       ><text x="984" xml:space="preserve" y="576" stroke="none"
-      ></text
+      > </text
       ><text x="1205" xml:space="preserve" y="576" stroke="none"
-      ></text
+      > </text
       ><text x="0" xml:space="preserve" y="640" stroke="none"
-      ></text
+      > </text
       ><text x="221" xml:space="preserve" y="640" stroke="none"
-      ></text
+      > </text
       ><text x="442" xml:space="preserve" y="640" stroke="none"
-      ></text
+      > </text
       ><text x="663" xml:space="preserve" y="640" stroke="none"
-      ></text
+      > </text
       ><text x="884" xml:space="preserve" y="640" stroke="none"
-      ></text
+      > </text
       ><text x="1105" xml:space="preserve" y="640" stroke="none"
-      ></text
+      > </text
       ><text x="100" xml:space="preserve" y="704" stroke="none"
-      ></text
+      > </text
       ><text x="321" xml:space="preserve" y="704" stroke="none"
-      ></text
+      > </text
       ><text x="542" xml:space="preserve" y="704" stroke="none"
-      ></text
+      > </text
       ><text x="763" xml:space="preserve" y="704" stroke="none"
-      ></text
+      > </text
       ><text x="984" xml:space="preserve" y="704" stroke="none"
-      ></text
+      > </text
       ><text x="1205" xml:space="preserve" y="704" stroke="none"
-      ></text
+      > </text
       ><text x="0" xml:space="preserve" y="768" stroke="none"
-      ></text
+      > </text
       ><text x="221" xml:space="preserve" y="768" stroke="none"
-      ></text
+      > </text
       ><text x="442" xml:space="preserve" y="768" stroke="none"
-      ></text
+      > </text
       ><text x="663" xml:space="preserve" y="768" stroke="none"
-      ></text
+      > </text
       ><text x="884" xml:space="preserve" y="768" stroke="none"
-      ></text
+      > </text
       ><text x="1105" xml:space="preserve" y="768" stroke="none"
-      ></text
+      > </text
       ><text x="100" xml:space="preserve" y="832" stroke="none"
-      ></text
+      > </text
       ><text x="321" xml:space="preserve" y="832" stroke="none"
-      ></text
+      > </text
       ><text x="542" xml:space="preserve" y="832" stroke="none"
-      ></text
+      > </text
       ><text x="763" xml:space="preserve" y="832" stroke="none"
-      ></text
+      > </text
       ><text x="984" xml:space="preserve" y="832" stroke="none"
-      ></text
+      > </text
       ><text x="1205" xml:space="preserve" y="832" stroke="none"
-      ></text
+      > </text
       ><text x="0" xml:space="preserve" y="896" stroke="none"
-      ></text
+      > </text
       ><text x="221" xml:space="preserve" y="896" stroke="none"
-      ></text
+      > </text
       ><text x="442" xml:space="preserve" y="896" stroke="none"
-      ></text
+      > </text
       ><text x="663" xml:space="preserve" y="896" stroke="none"
-      ></text
+      > </text
       ><text x="884" xml:space="preserve" y="896" stroke="none"
-      ></text
+      > </text
       ><text x="1105" xml:space="preserve" y="896" stroke="none"
-      ></text
+      > </text
       ><text x="100" xml:space="preserve" y="960" stroke="none"
-      ></text
+      > </text
       ><text x="321" xml:space="preserve" y="960" stroke="none"
-      ></text
+      > </text
       ><text x="542" xml:space="preserve" y="960" stroke="none"
-      ></text
+      > </text
       ><text x="763" xml:space="preserve" y="960" stroke="none"
-      ></text
+      > </text
       ><text x="984" xml:space="preserve" y="960" stroke="none"
-      ></text
+      > </text
       ><text x="1205" xml:space="preserve" y="960" stroke="none"
-      ></text
+      > </text
       ><text x="0" xml:space="preserve" y="1024" stroke="none"
-      ></text
+      > </text
       ><text x="221" xml:space="preserve" y="1024" stroke="none"
-      ></text
+      > </text
       ><text x="442" xml:space="preserve" y="1024" stroke="none"
-      ></text
+      > </text
       ><text x="663" xml:space="preserve" y="1024" stroke="none"
-      ></text
+      > </text
       ><text x="884" xml:space="preserve" y="1024" stroke="none"
-      ></text
+      > </text
       ><text x="1105" xml:space="preserve" y="1024" stroke="none"
-      ></text
+      > </text
       ><text x="100" xml:space="preserve" y="1088" stroke="none"
-      ></text
+      > </text
       ><text x="321" xml:space="preserve" y="1088" stroke="none"
-      ></text
+      > </text
       ><text x="542" xml:space="preserve" y="1088" stroke="none"
-      ></text
+      > </text
       ><text x="763" xml:space="preserve" y="1088" stroke="none"
-      ></text
+      > </text
       ><text x="984" xml:space="preserve" y="1088" stroke="none"
-      ></text
+      > </text
       ><text x="1205" xml:space="preserve" y="1088" stroke="none"
-      ></text
+      > </text
       ><text x="0" xml:space="preserve" y="1152" stroke="none"
-      ></text
+      > </text
       ><text x="221" xml:space="preserve" y="1152" stroke="none"
-      ></text
+      > </text
       ><text x="442" xml:space="preserve" y="1152" stroke="none"
-      ></text
+      > </text
       ><text x="663" xml:space="preserve" y="1152" stroke="none"
-      ></text
+      > </text
       ><text x="884" xml:space="preserve" y="1152" stroke="none"
-      ></text
+      > </text
       ><text x="1105" xml:space="preserve" y="1152" stroke="none"
-      ></text
+      > </text
     ></g
   ></g
 ></svg
